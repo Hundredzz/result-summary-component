@@ -1,0 +1,57 @@
+@media screen and (max-width: 376px) {
+    
+    .main{
+        display: inline;
+    }
+
+    .Results-container{
+        display: inline;
+        height: 100%;
+        width: 375px;
+    }
+
+    .side{
+        width: 311px;
+        margin-top: -1.5rem;
+        height: 38vh;
+    }
+
+    .circle{
+        width: 125px;
+        height: 125px;
+    }
+
+    .side-head{
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .great{
+        margin-bottom: 0.5rem;
+    }
+
+    .info{
+        margin-top: 0.5rem;
+    }
+
+    .circle :first-child{
+        margin-top: 1rem;
+    }
+
+    .summary{
+        width: 311px;
+    }
+
+    .summary-head{
+        margin-top: -0.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .stats-box{
+        margin-bottom: 1.2rem;
+    }
+
+    .btn{
+        margin-top: 0.5rem;
+    }
+}
